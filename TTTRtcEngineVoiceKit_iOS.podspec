@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name         = "TTTRtcEngineVoiceKit_iOS"
-spec.version      = "2.5.0"
+spec.version      = "2.5.1"
 spec.summary      = "TTT Audio Lib"
 spec.description  = "TTTRtcEngineVoiceKit_iOS Version 2.5.1"
 
