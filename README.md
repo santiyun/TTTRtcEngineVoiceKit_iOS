@@ -1,5 +1,10 @@
 # TTTRtcEngineVoiceKit_iOS
 
+## 2.8.0
+
+1. 新增启用默认音频播放功能**enableDefaultAudioPaly**
+2. 优化退房间资源释放
+
 ## 2.7.3
 
 #### 修改
