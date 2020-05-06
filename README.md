@@ -1,5 +1,10 @@
 # TTTRtcEngineVoiceKit_iOS
 
+## 2.9.1
+
+1. **TTTPublisherConfiguration.videoSize** 参数过期
+2. 去掉XML解析库
+
 ## 2.8.0
 
 1. 新增启用默认音频播放功能**enableDefaultAudioPaly**
