@@ -1,5 +1,9 @@
 # TTTRtcEngineVoiceKit_iOS
 
+## 2.9.2
+
+1. 优化PK流程
+
 ## 2.9.1
 
 1. **TTTPublisherConfiguration.videoSize** 参数过期
