@@ -1,6 +1,6 @@
 # TTTRtcEngineVoiceKit_iOS
 
-## 2.9.2
+## 2.9.5
 
 1. 优化音频采集播放模块
 2. 增加降噪**enableDenoise**功能
