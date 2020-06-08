@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
 spec.name         = "TTTRtcEngineVoiceKit_iOS"
-spec.version      = "2.9.2"
+spec.version      = "2.9.4"
 spec.summary      = "3T Audio Lib"
-spec.description  = "Version 2.9.2"
+spec.description  = "Version 2.9.4"
 
 spec.homepage     = "https://github.com/santiyun/TTTRtcEngineVoiceKit_iOS.git"
 spec.license      = "MIT"
@@ -10,7 +10,7 @@ spec.license      = "MIT"
 spec.author             = { "santiyun" => "sdyzsdut@163.com" }
 
 spec.platform     = :ios, "8.0"
-spec.source       = { :git => "https://github.com/santiyun/TTTRtcEngineVoiceKit_iOS.git", :tag => "2.9.2" }
+spec.source       = { :git => "https://github.com/santiyun/TTTRtcEngineVoiceKit_iOS.git", :tag => "2.9.4" }
 
 spec.vendored_frameworks = '*.framework'
 #spec.vendored_libraries = '*.a'
